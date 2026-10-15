@@ -1,0 +1,10 @@
+C:\Users\1212-1\Documents\Radoslav 12a\Calc without buttons\Calc without buttons\obj\Debug\Calc without buttons.csproj.AssemblyReference.cache
+C:\Users\1212-1\Documents\Radoslav 12a\Calc without buttons\Calc without buttons\obj\Debug\Calc_without_buttons.Form1.resources
+C:\Users\1212-1\Documents\Radoslav 12a\Calc without buttons\Calc without buttons\obj\Debug\Calc_without_buttons.Properties.Resources.resources
+C:\Users\1212-1\Documents\Radoslav 12a\Calc without buttons\Calc without buttons\obj\Debug\Calc without buttons.csproj.GenerateResource.cache
+C:\Users\1212-1\Documents\Radoslav 12a\Calc without buttons\Calc without buttons\obj\Debug\Calc without buttons.csproj.CoreCompileInputs.cache
+C:\Users\1212-1\Documents\Radoslav 12a\Calc without buttons\Calc without buttons\bin\Debug\Calc without buttons.exe.config
+C:\Users\1212-1\Documents\Radoslav 12a\Calc without buttons\Calc without buttons\bin\Debug\Calc without buttons.exe
+C:\Users\1212-1\Documents\Radoslav 12a\Calc without buttons\Calc without buttons\bin\Debug\Calc without buttons.pdb
+C:\Users\1212-1\Documents\Radoslav 12a\Calc without buttons\Calc without buttons\obj\Debug\Calc without buttons.exe
+C:\Users\1212-1\Documents\Radoslav 12a\Calc without buttons\Calc without buttons\obj\Debug\Calc without buttons.pdb
